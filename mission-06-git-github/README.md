@@ -52,8 +52,12 @@ Two people can work on their own branches without breaking each other's work. So
 - git push -u origin update-about: published the branch to GitHub
 - git checkout main and git pull origin main: used after I merged the PR
 
-# 7. My understanding
-Version control saves the history of my work so I can go back if something breaks. Git is the tool on my computer and GitHub is the website where the project is stored online. A branch and PR is better than editing main directly because the changes can be checked first.
+
+
+# 7. What I Practised in Git
+- I created a branch called update-about so that I could change the README without touching main.
+- I learned that git add stages a change and git commit saves it in the history.
+- I learned that a Pull Request asks GitHub to merge my branch into main.
 
 # 8. Difficulties faced
 My push was rejected the first time.
@@ -63,7 +67,7 @@ I pulled the latest changes and pushed again.
 
 # 10. Evidence
 mission-06-git-github/README.md, the update-about branch and the Pull Request on GitHub.
-PR link: https://github.com/srivathsa12/digital-detective-8490/pull/1
+PR link: https://github.com/shyam2008-crypto/digital-detective-8079/pull/1
 
 # 11. Commit details
 Commit message: Complete Git and GitHub collaboration mission. Pushed to GitHub. Pull Request status: Merged
