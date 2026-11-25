@@ -52,7 +52,7 @@ A computer only stores numbers, so every letter needs a number. If each computer
 - `bin()`, `hex()`, `int(x, base)` and `ord()` inside Python
 
 # 7. My understanding
-Computers store everything as binary. Hex is a shorter way to write binary because one hex digit is 4 bits. Now I can convert decimal, binary and hex by hand and check it with Python. Text is also stored as numbers, and the encoding standard decides which number is which character.
+Computers store everything as binary. Hex is a shorter way to write binary because one hex digit is 4 bits. Now I can convert decimal, binary and hex by hand and check it with Python. Text is also stored as numbers, and the encoding standard decides which number is which character.It is very helpful to me .
 
 # 8. Difficulties faced
 I didn't know how to check binary and hex in the Python terminal at all. I had never used int(), bin(), hex() or ord() before, so I didn't know what to type or what the 0b and 0x in the answers meant. I also mixed up the order of the remainders in binary at first.
