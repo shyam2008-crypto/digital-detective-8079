@@ -18,15 +18,22 @@ I made a local project folder called `digital-detective-8079` and used the same 
 # 4. My understanding
 A repository is a folder that Git keeps track of, so it stores my files along with the history of every change I make. I split the work into one folder per mission so everything stays organised, is easy to review, and each mission can get its own commit.
 
+cat >> mission-00-setup/README.md << 'EOF'
 # 5. Difficulties faced
-Still didn't face any difficulties up to now
+- I typed the GitHub repository name wrongly in the first remote URL (the digits were swapped), so Git said "Repository not found".
+- I ran `git remote add origin` again, and Git said "remote origin already exists".
+- I tried to push before making my first commit, and Git said "src refspec main does not match any".
 
-# 6. Evidence / files
-- `mission-00-setup/README.md` 
+# 6. How I resolved them
+- I checked the exact repository name on GitHub and used the correct one.
+- I learned that the remote was already added, so I did not need to add it again.
+- I ran `git add .` and `git commit` first so that there was something to push, and then the push worked.
+
+# 7. Evidence / files
+- `mission-00-setup/README.md`
 - Root `README.md`
-- The mission folders and `evidence/` folder in the repo
+- The mission folders and the `evidence/` folder in the repo
 
-# 7. Commit details
+# 8. Commit details
 - Commit message: Set up Digital Detective mission structure
 - Pushed to GitHub: Yes, and I checked the repo page to confirm the folders and the commit were there.
-EOF
