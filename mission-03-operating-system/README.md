@@ -55,7 +55,7 @@ I encountered the new commands such as df, uname, and explored about their prope
 
 # 9. How I resolved them
 
-I researched and talked with my friends how exactly this commands and why we're using in our daily work life. I used the help of google and ai to explore the not known parts.
+I researched and talked with my friends how exactly this commands and why we're using in our daily work life. I used the help of google and AI to explore the not known parts.
 
 # 10. Evidence
 
@@ -63,4 +63,4 @@ I researched and talked with my friends how exactly this commands and why we're 
 
 # 11 Commit details
 
-The commit details were Document operating system and file management and again found the small gaps in readme. Updated it and committed and pushed to the Github..
+The commit details were Document operating system and file management and again found the small gaps in readme. Updated it and committed and pushed to the Github.
