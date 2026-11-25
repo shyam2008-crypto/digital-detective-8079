@@ -56,7 +56,7 @@ I got that how to use this commands, and how they work and useful in our daily t
 
 # 8. Difficulties faced
 
-Everyhting went smooth, no onstacles occured in between the progress.
+Everyhting went smooth, no onstacles occured in between the progress...
 
 # 9. How I resolved them
 Not applicable
@@ -68,5 +68,5 @@ Not applicable
 
 # 11.Commit details
 
-The commint message was Complete Terminal and file management mission,  and successfully pushed to the Github repo..
+The commint message was Complete Terminal and file management mission,  and successfully pushed to the Github repo.
 
