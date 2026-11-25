@@ -52,7 +52,7 @@ The browser needs the IP address before it can contact the server. DNS gives it 
 When I open a website, the browser first asks DNS for the IP address. Then it sends a request through my router and the internet to the server. The server sends the page back and the browser shows it. If DNS stopped working, I could not open sites by name because the browser would not know the address.
 
 # 7. Difficulties faced
-I did not understand the ping command at first. I forgot some concepts like WAN and mixed up LAN, MAN and WAN. All the commands were new to me, so I was not sure what the output meant.
+I did not understand the ping command at first. I forgot some concepts like WAN and mixed up LAN, MAN and WAN. All the commands were new to me, so I was not sure what the output meant,.
 
 # 8. How I resolved them
 I took help from AI, my friend and my seniors. They explained the commands and the difference between LAN, MAN and WAN. I also ran the commands myself to understand the output.
@@ -62,4 +62,4 @@ I took help from AI, my friend and my seniors. They explained the commands and t
 ![ping and nslookup output](image.png)
 
 # 10. Commit details
-Commit message: Explain networking concepts and website communication. Pushed to GitHub.
+Commit message: Explain networking concepts and website communication. Pushed to GitHub..
