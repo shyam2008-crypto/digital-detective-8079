@@ -18,7 +18,6 @@ I made a local project folder called `digital-detective-8079` and used the same 
 # 4. My understanding
 A repository is a folder that Git keeps track of, so it stores my files along with the history of every change I make. I split the work into one folder per mission so everything stays organised, is easy to review, and each mission can get its own commit.
 
-cat >> mission-00-setup/README.md << 'EOF'
 # 5. Difficulties faced
 - I typed the GitHub repository name wrongly in the first remote URL (the digits were swapped), so Git said "Repository not found".
 - I ran `git remote add origin` again, and Git said "remote origin already exists".
