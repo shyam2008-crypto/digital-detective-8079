@@ -37,10 +37,10 @@ I got confused how to run python file directly from terminal, yet I know but for
 
 # 7. How I resolved them
 
-I revised thorugh from my friend and told to myself.
+I revised thorugh from my friend and told to myself.And I asked Ai which part I didnt understand after disccusing with friends.
 
 # 8. Evidence
 mission-04-programs/hello.py and mission-04-programs/README.md
 
 # 9. Commit details
-Commit message: Compare compilers and interpreters. Pushed to GitHub..
+Commit message: . "I have learnt the differences between the compiler and interpreter" Pushed to GitHub..
