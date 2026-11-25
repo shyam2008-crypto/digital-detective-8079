@@ -56,5 +56,5 @@ The file mission-01-computer-basics/README.md
 
 # 10. Commit details
 
-The message Complete computer basics and IPOS mission, it was pushed to github.
+The message Complete computer basics and IPOS mission, it was pushed to github..
 
